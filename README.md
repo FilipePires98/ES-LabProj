@@ -1,6 +1,15 @@
 # Where the ISS at
 A simple real-time graphical visualization of positional data of the International Space Station
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Made%20With-Java-red)
+![](https://img.shields.io/badge/Deployment-Docker-blue)
+![](https://img.shields.io/badge/Storage-H2-lightgrey)
+![](https://img.shields.io/badge/Logging-Kafka-lightgrey)
+![](https://img.shields.io/badge/Platform-Web-lightgrey)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 This project aims to demonstrate the use of REST APIs and Event Streams to provide real-time online services.
